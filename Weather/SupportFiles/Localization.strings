@@ -1,0 +1,14 @@
+/* 
+  Localization.strings
+  Weather
+
+  Created by Sagar Sharma on 31/10/24.
+  
+*/
+"Clear" = "Солнечно";
+"Clouds" = "Облачно";
+"Rain" = "Дождь";
+"Snow" = "Снег";
+"Humidity" = "Влажность";
+"Wind speed" = "Ветер";
+"Rain chances" = "Дождь";
